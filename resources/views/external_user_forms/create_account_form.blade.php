@@ -13,7 +13,7 @@
 					echo Form::text('last_name');
 						echo '<br/>';
 				
-				echo "Enter your email address\t"; 
+				echo "Enter your email ID\t"; 
 					echo Form::text('email');
 						echo '<br/>';
 				
